@@ -1,4 +1,4 @@
-# PS4GoldHENXploitV5
+# kekexploitps4
 
 Go to (https://kekeeek.github.io/kekexploitps4) on your PS4.
 
