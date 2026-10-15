@@ -1,6 +1,6 @@
 # PS4GoldHENXploitV5
 
-Go to (https://kekeeek.github.io/ps4goldhenxploitV5) on your PS4.
+Go to (https://kekeeek.github.io/kekexploitps4) on your PS4.
 
 On your PS4, firmware versions supported are between **5.05 and 13.52**.
 
