@@ -1,6 +1,6 @@
 # kekexploitps4
 
-Go to (https://kekeeek.github.io/kekexploitps4) on your PS4.
+Go to (https://kekeeek.github.io) on your PS4.
 
 On your PS4, firmware versions supported are between **5.05 and 13.52**.
 
