@@ -2,7 +2,7 @@
 
 Go to (https://kekeeek.github.io) on your PS4.
 
-On your PS4, firmware versions supported are between **5.05 and 13.52**.
+On your PS4, firmware versions supported are between **5.05 and 14.00**.
 
 Supported versions:
 
